@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>application/views/header.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/cccs/application/views/create_account.php</file>
+            <file>file:/C:/xampp/htdocs/cccs/application/controllers/admin_login.php</file>
+            <file>file:/C:/xampp/htdocs/cccs/application/views/maincontent.php</file>
+            <file>file:/C:/xampp/htdocs/cccs/application/views/public/single_car_info.php</file>
+            <file>file:/C:/xampp/htdocs/cccs/application/controllers/welcome.php</file>
+            <file>file:/C:/xampp/htdocs/cccs/application/views/public/car_registration.php</file>
+            <file>file:/C:/xampp/htdocs/cccs/application/views/single_car.php</file>
+            <file>file:/C:/xampp/htdocs/cccs/application/models/welcome_model.php</file>
+            <file>file:/C:/xampp/htdocs/cccs/application/controllers/super_admin.php</file>
+            <file>file:/C:/xampp/htdocs/cccs/application/models/super_admin_model.php</file>
+        </group>
+    </open-files>
+</project-private>
