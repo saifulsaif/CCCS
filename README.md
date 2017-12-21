@@ -1,9 +1,9 @@
 # Car Crime Control System(CCCS)
 # Why need this appliction 
-I develop this appliction to reduce crime case processing time and
-don't need to go police office to payment.CCCS also help to 
-reduce car crime on rood.Car driver 
+I develop this appliction to reduce crime case processing time.
+Car owner don't need to go police office to payment.Car driver 
 don't need to carry car papers.All the papers upload in online.
+CCCS also helps to reduce car crime on rood.
 
 # Purpose of CCCS
  Easily identify victim car by sensor or number of car.
